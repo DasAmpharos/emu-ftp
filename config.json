@@ -1,0 +1,20 @@
+{
+    "switch": {
+        "host": "10.117.1.128",
+        "directory": "roms/GBC",
+        "saves": {
+            "red": "pokered.sav",
+            "gold": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced).sav",
+            "crystal": "pokecrystal.sav"
+        }
+    },
+    "n3ds": {
+        "host": "10.117.1.154",
+        "directory": "3ds/Checkpoint/saves",
+        "saves": {
+            "red": "0x01710 Pokémon Red",
+            "gold": "0x01726 Pokémon Gold",
+            "crystal": "0x01728 Pokémon Crystal"
+        }
+    }
+}
